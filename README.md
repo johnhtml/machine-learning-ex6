@@ -1,1 +1,1 @@
-Machine Learning by Stanford University exercise 5 solution
+Machine Learning by Stanford University exercise 6 solution
